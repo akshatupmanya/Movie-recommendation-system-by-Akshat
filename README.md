@@ -23,8 +23,8 @@ To run the recommendation system:
 3. Open and run the `movie_recommendation_system.ipynb` in Collab Notebook.
 
 ## Acknowledgments
-- Kaggle for providing the dataset.
-- The Movie Database (TMDb) for collecting and maintaining the movie information.
+- Kaggle for providing the dataset...
+- The Movie Database (TMDb) for collecting and maintaining the movie information...
 
 ## Contact
 For any questions, suggestions, or feedback, feel free to reach out to me at @ akshatupmanya@gmail.com
